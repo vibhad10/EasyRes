@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  EasyRes
 //
-//  Created by Jane on 4/25/22.
+//  Created by Vibha Dabholkar on 4/25/22.
 //
 import SwiftUI
 import UIKit
